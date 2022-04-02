@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/instruction_storage.dir/main.c.o  -o instruction_storage 
