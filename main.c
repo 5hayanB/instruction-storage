@@ -7,7 +7,7 @@ int main()
     // Array for storing the instructions is initialized
     unsigned int hex_arr[inst_no];
     // Opening the file (with complete path)
-    FILE *fptr = fopen("/home/shayan/CLionProjects/instruction-storage/hex.txt", "r");
+    FILE *fptr = fopen("/path/to/file/hex.txt", "r");
     // Assigning the instructions to array
     for (int i = 0; i < inst_no; ++i)
     {
